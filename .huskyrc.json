@@ -1,5 +1,5 @@
 {
-    "simple-git-hooks": {
-        "pre-commit": "npx lint-staged"
+    "hooks": {
+        "pre-commit": "lint-staged"
     }
 }
